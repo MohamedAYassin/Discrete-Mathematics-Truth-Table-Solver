@@ -6,3 +6,4 @@
 requires [Python](https://www.python.org/) v3+ to run.
 
 ## Photos Of Project
+![image](https://github.com/MohamedAYassin/Discrete-Mathematics-Truth-Table-Solver/blob/main/preview/1.png?raw=true)
